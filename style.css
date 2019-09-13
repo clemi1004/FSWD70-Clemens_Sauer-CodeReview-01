@@ -1,0 +1,25 @@
+
+footer {background-color: #ededed;
+		height: 151px;
+}
+
+footer > h1 {position: relative;
+			font-family: Arial;
+			left: 380px;
+			bottom: 140px;
+			padding: 18px;
+}
+
+nav {background-color: #653d3d;
+	padding: 13px;
+}
+
+nav > a {background-color: #653d3d;
+	font-family:  Arial;
+	font-weight: bold;
+	text-transform:  uppercase;
+	font-size: 16pt;
+	color: #D3D3D3;
+	text-decoration: none;
+
+}
