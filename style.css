@@ -21,5 +21,35 @@ nav > a {background-color: #653d3d;
 	font-size: 16pt;
 	color: #D3D3D3;
 	text-decoration: none;
+	width: 100%;
 
 }
+
+div.middle_section {font-family:Arial;
+				 display: inline-block;
+				 width: 100%;
+				 height: 200px;
+				 padding-top: 50px;
+				 text-align: center;
+				 border: 1px solid red;
+				 font-size: 40pt;
+}
+div.pictures1 { display: inline-block;
+			width: 40%;
+			text-align: center;
+			padding-top: 12px;
+			padding-bottom: 12px;
+			border: 1px solid red
+}
+div.pictures2 { display: inline-block;
+			width: 40%;
+			text-align: center;
+			padding-top: 12px;
+			padding-bottom: 12px;
+			border: 1px solid red
+}
+
+
+
+
+
